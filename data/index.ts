@@ -140,62 +140,62 @@ export const navItems = [
   export const companies = [
     {
       id: 1,
-      name: "cloudinary",
+      name: "wizklub",
       img: "/cloud.svg",
       nameImg: "/cloudName.svg",
     },
     {
       id: 2,
-      name: "appwrite",
+      name: "rebecca",
       img: "/app.svg",
       nameImg: "/appName.svg",
     },
     {
       id: 3,
-      name: "HOSTINGER",
+      name: "unccharlotte",
       img: "/host.svg",
       nameImg: "/hostName.svg",
     },
-    {
-      id: 4,
-      name: "stream",
-      img: "/s.svg",
-      nameImg: "/streamName.svg",
-    },
-    {
-      id: 5,
-      name: "docker.",
-      img: "/dock.svg",
-      nameImg: "/dockerName.svg",
-    },
+    // {
+    //   id: 4,
+    //   name: "stream",
+    //   img: "/s.svg",
+    //   nameImg: "/streamName.svg",
+    // },
+    // {
+    //   id: 5,
+    //   name: "docker.",
+    //   img: "/dock.svg",
+    //   nameImg: "/dockerName.svg",
+    // },
   ];
   
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Engineer Intern",
-      desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+      title: "Web Developer - Rebecca Everlene Trust Company",
+      desc: "Translated Figma designs into responsive WordPress websites using JavaScript and CSS, enhancing user experience and site performance.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
-      title: "Mobile App Dev - JSM Tech",
-      desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-      className: "md:col-span-2", // change to md:col-span-2
+      title: "Software Engineer Intern - Wizklub Learning Pvt. Ltd.",
+      desc: "Revolutionized inventory management with a dynamic React.js web platform, cutting turnaround time by 25% and boosting operational efficiency!",
+      className: "md:col-span-2",
       thumbnail: "/exp2.svg",
     },
     {
       id: 3,
-      title: "Freelance App Dev Project",
-      desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-      className: "md:col-span-2", // change to md:col-span-2
+      title: "Graduate Teaching Assistant - University of North Carolina at Charlotte",
+      desc: "Collaborated with professors to enhance course materials and coding assignments using GitHub, while assisting in teaching and grading undergraduate Computer Science courses.",
+      className: "md:col-span-2",
       thumbnail: "/exp3.svg",
     },
     {
       id: 4,
-      title: "Lead Frontend Developer",
-      desc: "Developed and maintained user-facing features using modern frontend technologies.",
+      title: "Full Stack Developer - Discord Clone (Personal Project)",
+      desc: "Developed a Full Stack Discord Clone using Next.js 13 and React, featuring real-time messaging with Socket.io and a robust backend with Prisma and Postgres.",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
     },

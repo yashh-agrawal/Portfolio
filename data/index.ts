@@ -92,7 +92,7 @@ export const navItems = [
       des: "The Portfolio: A Showcase of Full-Stack Excellence and Real-Time Innovation",
       img: "/p3.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/fm.svg", "/three.svg"],
-      link: "https://github.com/yashagrawal13072000/Portfolio",
+      link: "https://yashagrawal.vercel.app/",
     },
     // {
     //   id: 4,

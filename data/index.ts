@@ -107,33 +107,33 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Music is a profound source of inspiration in my life, influencing my creativity and emotional well-being. It serves as a backdrop for my daily activities, whether I’m working, exercising, or simply relaxing. The rhythms and melodies not only uplift my mood but also help me reflect and connect with my thoughts. I find that music fosters a sense of calm and focus, allowing me to navigate challenges with greater clarity and resilience. Additionally, it enriches my experiences, enabling me to appreciate the beauty in both my personal and professional pursuits, ultimately driving my passion for continuous growth and exploration.",
+      name: "Music",
+      title: "Creativity, Focus, Appreciation",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      "The gym is a cornerstone of my lifestyle, providing both physical and mental benefits that enhance my overall well-being. Regular workouts boost my energy levels and improve my focus, allowing me to tackle challenges with greater determination. The discipline I cultivate in the gym translates into my professional life, teaching me the importance of consistency and perseverance in achieving my goals. Additionally, the gym serves as a valuable outlet for stress relief, helping me maintain balance in my daily routine. Overall, my fitness journey fuels my ambition and inspires me to push my limits, both personally and professionally.",
+      name: "Gym",
+      title: "Discipline, Energy, Stress Relief",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      "Traveling enriches my life by broadening my horizons and exposing me to diverse cultures and perspectives. Each journey offers a unique opportunity for personal growth, allowing me to adapt to new environments and embrace the unfamiliar. My dream is to travel to all countries, and each adventure inspires fresh ideas and new ways of thinking. The experiences I gain while traveling enhance my problem-solving skills, as navigating different situations often requires quick thinking and adaptability. Ultimately, my adventures fuel my curiosity and passion for learning, shaping me into a more open-minded and well-rounded individual.",
+      name: "Travelling",
+      title: "Adaptability, Problem-Solving Skills, Curiosity",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      "Having a solid foundation in financial knowledge empowers me to make informed decisions both personally and professionally. Understanding financial principles allows me to manage my resources effectively, prioritize investments, and plan for future goals. Currently, I am reading the 'Rich Dad' series, which further enhances my analytical skills and helps me assess risks and evaluate opportunities critically. Additionally, being financially literate fosters a sense of responsibility and accountability, ensuring that I navigate challenges with a strategic mindset. Ultimately, my financial acumen contributes to my overall success and helps me achieve long-term aspirations.",
+      name: "Financial Knowledge",
+      title: "Informed Decision-Making, Analytical Skills, Responsibility",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      "Spending time with friends is essential for my well-being, as it fosters a sense of belonging and connection. Engaging in social activities not only enhances my mood but also provides a valuable support system during challenging times. Through shared experiences and laughter, I develop stronger communication skills and learn to appreciate different perspectives. This social interaction boosts my creativity and problem-solving abilities, allowing me to approach challenges with a fresh mindset. Ultimately, the friendships I cultivate enrich my life, helping me to maintain a balanced and fulfilling lifestyle.",
+      name: "Spending time with FRIENDS",
+      title: "Sense of Belonging, Communication Skills, Resilience",
     },
   ];
   

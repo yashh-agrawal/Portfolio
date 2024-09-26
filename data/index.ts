@@ -205,13 +205,16 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      link: "https://github.com/yashagrawal13072000",
     },
     {
       id: 2,
-      img: "/twit.svg",
+      img: "/link.svg",
+      link: "https://www.linkedin.com/in/yash-agrawal1307/"
     },
     {
       id: 3,
-      img: "/link.svg",
+      img: "/twit.svg",
+      link: "https://leetcode.com/u/yashagrawal1307/"
     },
   ];

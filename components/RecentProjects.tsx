@@ -4,6 +4,7 @@ import { FaLocationArrow } from "react-icons/fa6";
 
 import { projects } from "@/data";
 import { PinContainer } from "./ui/Pin";
+import Link from "next/link";
 
 const RecentProjects = () => {
   return (
@@ -22,6 +23,7 @@ const RecentProjects = () => {
               title={item.link}
               href={item.link}
             >
+              <Link href={item.link} target="_blank">
               <div className="relative flex items-center justify-center sm:w-[570px] w-[80vw] overflow-hidden mb-10 sm:h-[40vh] h-[30vh]">
                 <div
                   className="relative w-full h-full overflow-hidden lg:rounded-3xl"
@@ -72,6 +74,7 @@ const RecentProjects = () => {
                   <FaLocationArrow className="ms-3" color="#CBACF9" />
                 </div>
               </div>
+              </Link>
             </PinContainer>
           </div>
         ))}

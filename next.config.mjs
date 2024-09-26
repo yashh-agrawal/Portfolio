@@ -11,12 +11,13 @@ export default withSentryConfig(nextConfig, {
 // For all available options, see:
 // https://github.com/getsentry/sentry-webpack-plugin#options
 
+// Only print logs for uploading source maps in CI
+silent: true,
 org: "yash-agrawal",
 project: "javascript-nextjs",
 sentryUrl: "https://sentry.io/",
+},{
 
-// Only print logs for uploading source maps in CI
-silent: true,
 
 // For all available options, see:
 // https://docs.sentry.io/platforms/javascript/guides/nextjs/manual-setup/
@@ -24,16 +25,19 @@ silent: true,
 // Upload a larger set of source maps for prettier stack traces (increases build time)
 widenClientFileUpload: true,
 
+// Transpiles SDK to be compatible with IE11 (increases bundle size)
+transpileClientSDK: true,
+
 // Automatically annotate React components to show their full name in breadcrumbs and session replay
-reactComponentAnnotation: {
-enabled: true,
-},
+// reactComponentAnnotation: {
+// enabled: true,
+// },
 
 // Route browser requests to Sentry through a Next.js rewrite to circumvent ad-blockers.
 // This can increase your server load as well as your hosting bill.
 // Note: Check that the configured route will not match with your Next.js middleware, otherwise reporting of client-
 // side errors will fail.
-tunnelRoute: "/monitoring",
+// tunnelRoute: "/monitoring",
 
 // Hides source maps from generated client bundles
 hideSourceMaps: true,

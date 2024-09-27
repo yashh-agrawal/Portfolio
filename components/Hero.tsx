@@ -36,7 +36,7 @@ const Hero = () => {
             Hi! I&apos;m Yash, a React.js Developer based in United States.
             </p>
 
-            <a href="#about">
+            <a href="#projects">
             <MagicButton
               title="Show my work"
               icon={<FaLocationArrow />}
